@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/banner.png" />
-</p>
+<div align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" />
+</div>
 
 <h1 align="center">Hey there 👋 I'm Abhilasha </h1>
 
