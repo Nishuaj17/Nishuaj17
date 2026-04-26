@@ -38,3 +38,37 @@ while(alive){
    repeat();
 }
 
+## My Contributions Being Consumed 🐍
+
+![snake animation](https://github.com/Nishuaj17/Nishuaj17/blob/output/github-contribution-grid-snake.svg)
+
+## Streaks I Somehow Maintain
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nishuaj17&theme=tokyonight)
+
+## Digital Trophies I Pretend Are Casual
+
+![](https://github-profile-trophy.vercel.app/?username=Nishuaj17&theme=radical&row=1)
+
+## Stuff I’ve Built
+
+### 🍕 ManpasandKhana.com
+An innovative online platform to bring all street food vendors together.
+
+### 🚗 Smart Campus Parking & Access Control
+Full-stack project with role-based access and parking automation.
+
+### 🚑 MedLink
+Full-stack project for Smart Healthcare Emergency System
+
+### 📊 EV Adoption Analytics Dashboard
+EDA + Power BI project exploring EV market patterns.
+
+### ⚙️ Flocci Workspaces 
+Backend/API and software engineering internship work.
+
+## Find Me Here
+
+[LinkedIn](https://www.linkedin.com/in/abhilasha-17125b332) •
+[Portfolio](Cooming soon 😋) •
+[Email](mailto:indu170223@gmail.com)
