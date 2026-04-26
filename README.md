@@ -17,6 +17,7 @@
 - 🎯 Goal: Build projects that make recruiters stop scrolling
 
 ## My Toolbox 🛠️(Tech Stack 😜)
+
 Java • Spring Boot • Node.js • MongoDB • PostgreSQL • Python • Power BI
 
 ## GitHub Chaos Metrics
