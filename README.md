@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" />
+</p>
+
 <h1 align="center">Hey there 👋 I'm Abhilasha </h1>
 
 <h3 align="center">
@@ -16,9 +20,30 @@
 - ⚡ Fun fact: I trust Stack Overflow more than my memory  
 - 🎯 Goal: Build projects that make recruiters stop scrolling
 
+![Backend](https://img.shields.io/badge/Backend-Developer-blue)
+![Data](https://img.shields.io/badge/Data-Analytics-green)
+![AI](https://img.shields.io/badge/AI-Enthusiast-purple)
+
 ## My Toolbox 🛠️(Tech Stack 😜)
 
 Java • Spring Boot • Node.js • MongoDB • PostgreSQL • Python • Power BI
+
+## Stuff I’ve Built
+
+### 🍕 ManpasandKhana.com
+An innovative online platform to bring all street food vendors together.
+
+### 🚗 Smart Campus Parking & Access Control
+Full-stack project with role-based access and parking automation.
+
+### 🚑 MedLink
+Full-stack project for Smart Healthcare Emergency System
+
+### 📊 EV Adoption Analytics Dashboard
+EDA + Power BI project exploring EV market patterns.
+
+### ⚙️ Flocci Workspaces 
+Backend/API and software engineering internship work.
 
 ## GitHub Chaos Metrics
 
@@ -38,10 +63,17 @@ while(alive){
    repeat();
 }
 ```
+## Developer Status
+
+```diff
++ Building projects
++ Open to opportunities
+- Sleeping enough
+```
 
 ## My Contributions Being Consumed 🐍
 
-![snake animation](https://github.com/Nishuaj17/Nishuaj17/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Nishuaj17/Nishuaj17/output/github-contribution-grid-snake.svg)
 
 ## Streaks I Somehow Maintain
 
@@ -51,25 +83,24 @@ while(alive){
 
 ![](https://github-profile-trophy.vercel.app/?username=Nishuaj17&theme=radical&row=1)
 
-## Stuff I’ve Built
+## Pac-Man vs My Commits 👾
+Coming soon...
 
-### 🍕 ManpasandKhana.com
-An innovative online platform to bring all street food vendors together.
+## Find ME Here 😎
 
-### 🚗 Smart Campus Parking & Access Control
-Full-stack project with role-based access and parking automation.
+<p align="center">
+<a href="https://www.linkedin.com/in/abhilasha-17125b332">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### 🚑 MedLink
-Full-stack project for Smart Healthcare Emergency System
+<a href="Cooming Soon 😋">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome"/>
+</a>
 
-### 📊 EV Adoption Analytics Dashboard
-EDA + Power BI project exploring EV market patterns.
+<a href="mailto:indu170223@gmail.com">
+<img src="https://img.shields.io/badge/Email-Reach_Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
-### ⚙️ Flocci Workspaces 
-Backend/API and software engineering internship work.
-
-## Find Me Here
-
-[LinkedIn](https://www.linkedin.com/in/abhilasha-17125b332) •
-[Portfolio](Cooming soon 😋) •
-[Email](mailto:indu170223@gmail.com)
+---
+⭐ If you like weird bugs and cool builds, we’ll probably get along.
