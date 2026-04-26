@@ -83,10 +83,6 @@ while(alive){
 
 ![](https://github-profile-trophy.vercel.app/?username=Nishuaj17&theme=radical&row=1)
 
-## Pac-Man vs My Commits 👾
-
-![Pac-Man animation](https://raw.githubusercontent.com/Nishuaj17/Nishuaj17/output/github-metrics.svg)
-
 ## Find ME Here 😎
 
 <p align="center">
