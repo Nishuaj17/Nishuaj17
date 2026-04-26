@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Builder;Data+Explorer;Debugging+Since+Forever;Probably+Fixing+Something+Right+Now;Open+to+Cool+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00ADB5&center=true&vCenter=true&width=700&lines=Backend+Builder;Data+Explorer;Debugging+Since+Forever;Probably+Fixing+Something+Right+Now;Open+to+Cool+Projects" />
 </p>
 
 ## About Me
@@ -17,8 +17,6 @@
 - 🎯 Goal: Build projects that make recruiters stop scrolling
 
 ## My Toolbox 🛠️(Tech Stack 😜)
-## Things I break and then fix
-
 Java • Spring Boot • Node.js • MongoDB • PostgreSQL • Python • Power BI
 
 ## GitHub Chaos Metrics
